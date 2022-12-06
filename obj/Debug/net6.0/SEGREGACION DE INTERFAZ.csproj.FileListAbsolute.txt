@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\SEGREGACION DE INTERFAZ.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\SEGREGACION DE INTERFAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\SEGREGACION DE INTERFAZ.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\SEGREGACION DE INTERFAZ.AssemblyInfo.cs
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\SEGREGACION DE INTERFAZ.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\bin\Debug\net6.0\SEGREGACION DE INTERFAZ.exe
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\bin\Debug\net6.0\SEGREGACION DE INTERFAZ.deps.json
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\bin\Debug\net6.0\SEGREGACION DE INTERFAZ.runtimeconfig.json
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\bin\Debug\net6.0\SEGREGACION DE INTERFAZ.dll
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\bin\Debug\net6.0\SEGREGACION DE INTERFAZ.pdb
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\SEGREGACION DE INTERFAZ.dll
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\refint\SEGREGACION DE INTERFAZ.dll
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\SEGREGACION DE INTERFAZ.pdb
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\SEGREGACION DE INTERFAZ.genruntimeconfig.cache
+C:\Users\acer\Desktop\TI\SEGREGACION DE INTERFAZ\obj\Debug\net6.0\ref\SEGREGACION DE INTERFAZ.dll
